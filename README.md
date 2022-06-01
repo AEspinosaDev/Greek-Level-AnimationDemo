@@ -2,7 +2,7 @@
 
  
 <p align="center"> 
-<a href="[https://github.com/OkupaSofware/ProjectSpace](https://www.youtube.com/watch?v=d5_nAEGvRQM&ab_channel=AntonioEspinosa)">
+<a href="https://www.youtube.com/watch?v=d5_nAEGvRQM&ab_channel=AntonioEspinosa">
 <img src=https://user-images.githubusercontent.com/79087129/171301565-da4893c1-13be-4135-b957-ed762291eb15.png width=80%>
 </a>
 </p>
