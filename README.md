@@ -23,12 +23,34 @@ Classic animations have also been made for this demo, some of them have been tak
 Structure of the level and scrpitded events have been carefully planned in order to achieve a real waltk thorugh a level experience. The lightning, postprocessing techniches and overall presentation of the level have also been thoroughly worked on.
   </p>
 <H2 ALIGN="CENTER">3D ART</H2>
+<p align="center"> 
 The second strong part of this project, along with the procedural animation part, is the 3D art, in which I have worked a lot. All that you can see in this demo is not only modelled by me, but also texturized and baked by me, execpt for the jars and water material. The character is completely sculpted, modelled, rigged and skinned by myself, you can check the model and the high poly baked mesh in my Artstation. Much of the materials have been made by making high poly models esculpted in Zbrusz, making them completelly unique.
+  </p>
+<br> 
+</br>
+<p align="center"> 
+
+<img src="https://user-images.githubusercontent.com/79087129/171309649-6c32e871-efec-4d7b-a2ba-a9cfe07a772d.jpg" width=80%>
+
+<img src="https://user-images.githubusercontent.com/79087129/171309677-1602ea96-f63f-44be-a0a7-3f01bb74baaa.jpg" width=80%>
+  
+  <img src="https://user-images.githubusercontent.com/79087129/171309695-b7e58818-e2b1-4d40-a3a4-9241e7505579.jpg" width=80%>
+ 
+   <img src="https://user-images.githubusercontent.com/79087129/171309711-8eb9fbbd-0823-44b4-ac41-5965e608598e.jpg" width=80%>
+   <img src="https://user-images.githubusercontent.com/79087129/171309722-698c850c-8655-47cf-b864-19dc135fd7de.jpg" width=80%>
+</p>
+
 
 <H3 ALIGN="LEFT">About this repository</H3>
 
 The real goal of this project is to integrate the physicals components I programmed within an interactive context, being the aforementioned a cloth  behaviour simulator and a elastic solid simulator simulator. As I am also very much into 3D art, I thought it was a good Idea to mix these two expertises on one single project. Maybe they are not very similar topics, buit the mix between these two will always have a great aesthetic impact. 
 
-You can find these physical components in my github, and download them as plugins and use them in your own projects:
+You can download these components as plugins here and use them in your own Unity projects:
 https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation
+https://github.com/AEspinosaDev/Elastic-Behaviour-Simulation
+
+You can check the character and level 3D designs in my Artstation:
+
+
+
 
