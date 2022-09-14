@@ -31,14 +31,16 @@ The second strong part of this project, along with the procedural animation part
 </br>
 <p align="center"> 
 
-<img src="https://user-images.githubusercontent.com/79087129/171309649-6c32e871-efec-4d7b-a2ba-a9cfe07a772d.jpg" width=80%>
 
-<img src="https://user-images.githubusercontent.com/79087129/171309677-1602ea96-f63f-44be-a0a7-3f01bb74baaa.jpg" width=80%>
-  
-  <img src="https://user-images.githubusercontent.com/79087129/171309695-b7e58818-e2b1-4d40-a3a4-9241e7505579.jpg" width=80%>
  
    <img src="https://user-images.githubusercontent.com/79087129/171309711-8eb9fbbd-0823-44b4-ac41-5965e608598e.jpg" width=80%>
    <img src="https://user-images.githubusercontent.com/79087129/171309722-698c850c-8655-47cf-b864-19dc135fd7de.jpg" width=80%>
+   
+   <img src="https://user-images.githubusercontent.com/79087129/171309677-1602ea96-f63f-44be-a0a7-3f01bb74baaa.jpg" width=80%>
+   <img src="https://user-images.githubusercontent.com/79087129/171309649-6c32e871-efec-4d7b-a2ba-a9cfe07a772d.jpg" width=80%>
+    <img src="https://user-images.githubusercontent.com/79087129/171309695-b7e58818-e2b1-4d40-a3a4-9241e7505579.jpg" width=80%>
+
+
 </p>
 
 
