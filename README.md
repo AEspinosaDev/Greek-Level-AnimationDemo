@@ -14,15 +14,6 @@ All the cloth in this demo is using a custom physics component I programmed for 
 Classic animations have also been made for this demo, some of them have been taken for mixamo and have been manually modified in order to match the movements of the  character in this demo. Others have been completely done from scratch.
   </p>
   
-<H2 ALIGN="CENTER">GAMEPLAY PROGRAMMING</H2>
-<p align="center"> 
- This interactuable demo have scripts implemented for the IA of the NPCs, some game object behaviours, scripted events and such. A combo system have also been implemented for the character.
-   </p>
-
-<H2 ALIGN="CENTER">LEVEL DESIGN</H2>
-<p align="center"> 
-Structure of the level and scripted events have been carefully planned in order to achieve a real waltk thorugh a level experience. The lightning, postprocessing techniques and overall presentation of the level have also been thoroughly worked on.
-  </p>
 <H2 ALIGN="CENTER">3D ART</H2>
 <p align="center"> 
 The second strong part of this project, along with the procedural animation part, is the 3D art, in which I have worked a lot. All you can see in this demo is not only modelled by me, but also texturized and baked by me, execpt for the jars and water material. The character is completely sculpted, modelled, rigged and skinned by myself, you can check the model and the high poly baked mesh in my Artstation. Much of the materials have been made by making high poly models esculpted in Zbrush, making them completelly unique.
@@ -46,7 +37,7 @@ The second strong part of this project, along with the procedural animation part
 
 <H3 ALIGN="LEFT">About this repository</H3>
 
-The real goal of this project is to integrate the physicals components I programmed within an interactive context, being the aforementioned a cloth  behaviour simulator and a elastic solid simulator simulator. As I am also very much into 3D art, I thought it was a good Idea to mix these two expertises on one single project. Maybe they are not very similar topics, buit the mix between these two will always have a great aesthetic impact. 
+The real goal of this project is to integrate the physicals components I programmed within an interactive context, being the aforementioned a cloth  behaviour simulator and a elastic solid simulator. As I am also very much into 3D art, I thought it was a good Idea to mix these two expertises on one single project. Maybe they are not very similar topics, buit the mix between these two will always have a great aesthetic impact. 
 
 You can download these components as plugins here and use them in your own Unity projects:
 https://github.com/AEspinosaDev/Cloth-Behaviour-Simulation
